@@ -16,11 +16,11 @@ ANDI issues may be reported to the ANDI GitHub page: <https://github.com/SSAgov/
 
 ### Color Contrast Analyzer 
 
-The Color Contrast Analyzer (CCA) is a free open-source tool that displays the contrast ratio for two selected colors. Developed by Steve Faulkner and the Paciello Group, CCA is available at the following links:
+The Color Contrast Analyzer (CCA) is a free open-source tool that displays the contrast ratio for two selected colors. Developed by Steve Faulkner and TPGi is available at the following links:
 
--   [CCA 2.5 for Windows](https://github.com/ThePacielloGroup/CCA-Win/releases/tag/2.5.0)
+-   [CCA 3.5.2 for Windows]([https://github.com/ThePacielloGroup/CCA-Win/releases/tag/2.5.0](https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.2/CCA-Setup-3.5.2.msi))
 
--   [CCA 2.4 for macOS](https://github.com/ThePacielloGroup/CCA-OSX/releases/tag/2.4)
+-   [CCA 3.5.2 for macOS]([https://github.com/ThePacielloGroup/CCA-OSX/releases/tag/2.4](https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.2/CCA-3.5.2.dmg))
 
 Operating Systems
 -----------------
